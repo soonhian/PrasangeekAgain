@@ -1,3 +1,9 @@
+Team Prasangeek
+Donovan Koh
+Poh Soon Hian
+Prasangi Wimalasire
+Niger Ang 
+
 AWS CodeStar Sample ASP.NET Core Web Application
 ==================================================
 
